@@ -1,0 +1,31 @@
+_repo: When-You-Don-t-Know-Where-to-TurnA-Self-Diagnosing-Guide-to-Counseling-and-Therapy_44926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44926-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Steven J.
+    alias: Bartlett, Steven James
+    birthdate: 1945
+    gutenberg_agent_id: '42993'
+    url: http://www.gutenberg.org/2009/agents/42993
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44926'
+  lccn: '87020045'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'RC'
+- !lcsh 'Consumer education'
+- !lcsh 'Psychotherapy'
+- !lcsh 'Counseling'
+title: 'When You Don''t Know Where to Turn
+
+  A Self-Diagnosing Guide to Counseling and Therapy'
+url: http://www.gutenberg.org/ebooks/44926
