@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42993'
     url: http://www.gutenberg.org/2009/agents/42993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44926#When-You-Don-t-Know-Where-to-TurnA-Self-Diagnosing-Guide-to-Counseling-and-Therapy
 gutenberg_issued: '2014-02-15'
 gutenberg_type: Text
 identifiers:
